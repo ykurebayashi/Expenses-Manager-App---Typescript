@@ -20,5 +20,4 @@ export const HeaderText = styled.h1`
 export const Body = styled.div`
   margin: 25px auto;
   width: 80%;
-  border: 1px solid black;
 `;
