@@ -11,7 +11,7 @@ const App = () => {
       </Header>
 
       <Body>
-        texto do body
+        { /* */ }
       </Body>
     </Container>
   );
